@@ -6,5 +6,8 @@ Mini Python Projects is a small educational repository with Python examples, exp
 
 # Directory structure
 Each directory will contain:
-- Source code as a .py file;
-- readme.md with an image of what the program does (optional)
+- Source code as a .py file
+- README.md with an image of what the program does (optional)
+
+# Warning
+Before running some projects (mostly animations), make sure the console window is large enough, otherwise the animation may not work correctly.
